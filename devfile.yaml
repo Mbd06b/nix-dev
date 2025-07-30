@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: rust-development
+  name: nix-development
   displayName: Rust Development Environment
   description: Prebuilt Rust + Nix dev container
   icon: https://www.rust-lang.org/logos/rust-logo-512x512.png
